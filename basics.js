@@ -54,10 +54,10 @@ exports.medianScore = function (scores) {
   else {return sorted[Math.floor(scores.length/2)]}
 }
 
-exports.modeScore = function (scores) {
-  var catchDoubles = [];
-  scores.reduce(function(previousValue, currentValue)
-});
-    }
-  }
-}
+// exports.modeScore = function (scores) {
+//   var catchDoubles = [];
+//   scores.reduce(function(previousValue, currentValue)
+// });
+//     }
+//   }
+// }
